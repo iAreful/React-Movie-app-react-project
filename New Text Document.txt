@@ -1,0 +1,15 @@
+
+Chapters:
+0:00 What we're building
+0:17 Get an API key
+0:56 Exploring the API request/response
+1:48 Create a react project & add bootstrap
+2:10 Adding movies to state
+3:09 Displaying the list of movies
+6:12 Adding scroll effect 
+9:10 Call the API from React
+22:53 Adding hover effect and favourites icon 
+29:00 Saving favourites
+34:00 Removing favourites
+37:42 Saving to local storage
+40:04 Retrieving from local storage on load

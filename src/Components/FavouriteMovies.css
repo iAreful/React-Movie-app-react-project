@@ -1,0 +1,13 @@
+.swiper-slide { width: 15%;
+    /* border-radius: 1rem; */
+    }
+
+    /* .movie-poster{
+    } */
+    .movie-poster:hover .add-fev{
+        display: block;
+        
+    }
+    .add-fev{
+        display: none;
+    }
