@@ -1,3 +1,28 @@
+![movie-app](https://user-images.githubusercontent.com/15269933/173217241-9067deac-e0c4-4ca4-866f-ccebaeaba8ec.png)
+
+
+- [x] Publish
+- [x] search option
+- [x] dark mode
+- [x] pick on local storage
+- [ ] into electron version
+- [ ] etc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
