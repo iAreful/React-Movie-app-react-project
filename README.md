@@ -5,22 +5,9 @@
 - [x] search option
 - [x] dark mode
 - [x] pick on local storage
+- [x] Brainstorming 🧠⚡🧐
 - [ ] into electron version
 - [ ] etc
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # Getting Started with Create React App
